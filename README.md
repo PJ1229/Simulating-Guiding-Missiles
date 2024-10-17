@@ -1,4 +1,6 @@
 # Simulating-Guiding-Missiles
+PJ Kim / April 26th, 2024<br>
+C++, SFML, Pathfinding, Computer Graphics<br><br>
 
 <h1>Introduction</h1>
 I wanted to create a game to simulate missile pathfinding. Players move around as a tank and try to target and shoot moving fighter jets. I chose this project to learn more about pathfinding, differential equations, and C++.<br><br>
